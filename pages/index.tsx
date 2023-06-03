@@ -93,11 +93,6 @@ const Home = () => {
       description: "Find remote jobs in various categories.",
       url: "https://remotive.com/remote-jobs",
     },
-    {
-      name: "Crypto Careers",
-      description: "Find remote jobs in various categories.",
-      url: "https://www.crypto-careers.com/jobs/search?q=&remote_job=Yes&sort=created_at",
-    },
   ];
 
   return (
