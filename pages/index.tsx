@@ -9,6 +9,11 @@ const Home = () => {
       url: "https://remoteok.io",
     },
     {
+      name: "Well Found",
+      description: "Find remote jobs worldwide.",
+      url: "https://wellfound.com/jobs",
+    },
+    {
       name: "We Work Remotely",
       description: "Find remote jobs in various categories.",
       url: "https://weworkremotely.com",
