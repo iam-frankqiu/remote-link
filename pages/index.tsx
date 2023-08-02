@@ -98,6 +98,11 @@ const Home = () => {
       description: "Find remote jobs in various categories.",
       url: "https://remotive.com/remote-jobs",
     },
+    {
+      name: "4dayweek",
+      description: "Find a 4 day week job.",
+      url: "https://4dayweek.io/",
+    }
   ];
 
   return (
