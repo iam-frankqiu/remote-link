@@ -102,6 +102,11 @@ const Home = () => {
       name: "4dayweek",
       description: "Find a 4 day week job.",
       url: "https://4dayweek.io/",
+    },
+    {
+      name: "NextJS who is hiring",
+      description: "NextJS",
+      url: "https://github.com/vercel/next.js/discussions?discussions_q=who%27s+hiring",
     }
   ];
 
