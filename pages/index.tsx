@@ -158,6 +158,11 @@ const Home = () => {
       description: "authenticjobs",
       url: "https://authenticjobs.com/",
     },
+    {
+      name: "ycombinator who is hiring",
+      description: "ycombinator who is hiring",
+      url: "https://news.ycombinator.com/submitted?id=whoishiring",
+    },
   ];
 
   return (
