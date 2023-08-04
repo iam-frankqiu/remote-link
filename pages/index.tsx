@@ -112,7 +112,27 @@ const Home = () => {
       name: "Vue Jobs",
       description: "Vue",
       url: "https://vuejobs.com/jobs",
-    }
+    },
+    {
+      name: "Javascript Job",
+      description: "JS",
+      url: "https://javascriptjob.xyz/",
+    },
+    {
+      name: "Just Join",
+      description: "JS",
+      url: "https://justjoin.it/remote/javascript",
+    },
+    {
+      name: "A Better web3",
+      description: "a better web3",
+      url: "https://abetterweb3.notion.site/daa095830b624e96af46de63fb9771b9",
+    },
+    {
+      name: "TopTal",
+      description: "Toptal",
+      url: "https://www.toptal.com/",
+    },
   ];
 
   return (
