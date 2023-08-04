@@ -163,6 +163,11 @@ const Home = () => {
       description: "ycombinator who is hiring",
       url: "https://news.ycombinator.com/submitted?id=whoishiring",
     },
+    {
+      name: "protocol",
+      description: "protocol jobs",
+      url: "https://jobs.protocol.ai/jobs",
+    },
   ];
 
   return (
