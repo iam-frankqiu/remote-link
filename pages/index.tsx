@@ -107,6 +107,11 @@ const Home = () => {
       name: "NextJS who is hiring",
       description: "NextJS",
       url: "https://github.com/vercel/next.js/discussions?discussions_q=who%27s+hiring",
+    },
+    {
+      name: "Vue Jobs",
+      description: "Vue",
+      url: "https://vuejobs.com/jobs",
     }
   ];
 
