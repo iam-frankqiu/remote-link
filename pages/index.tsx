@@ -168,6 +168,16 @@ const Home = () => {
       description: "protocol jobs",
       url: "https://jobs.protocol.ai/jobs",
     },
+    {
+      name: "proxify",
+      description: "proxify",
+      url: "https://career.proxify.io/",
+    },
+    {
+      name: "Arc dev",
+      description: "arc",
+      url: "https://arc.dev/remote-jobs/full-stack",
+    },
   ];
 
   return (
