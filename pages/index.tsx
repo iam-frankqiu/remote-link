@@ -178,6 +178,21 @@ const Home = () => {
       description: "arc",
       url: "https://arc.dev/remote-jobs/full-stack",
     },
+    {
+      name: "remotepoc",
+      description: "remotepoc",
+      url: "https://remotepoc.com/remote-developer-jobs/",
+    },
+    {
+      name: "squadjobs",
+      description: "squadjobs",
+      url: "https://squadjobs.com/jobs?text=full+stack",
+    },
+    {
+      name: "remote.io",
+      description: "remote.io",
+      url: "https://www.remote.io/remote-jobs-to-work-from-home?s=anywhere",
+    },
   ];
 
   return (
