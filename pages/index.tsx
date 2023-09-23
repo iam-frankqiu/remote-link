@@ -198,6 +198,11 @@ const Home = () => {
       description: "seek.com",
       url: "https://www.seek.com.au",
     },
+    {
+      name: "showcase",
+      description: "showcase.com",
+      url: "https://www.showwcase.com",
+    },
   ];
 
   return (
