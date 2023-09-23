@@ -193,6 +193,11 @@ const Home = () => {
       description: "remote.io",
       url: "https://www.remote.io/remote-jobs-to-work-from-home?s=anywhere",
     },
+    {
+      name: "seek.com",
+      description: "seek.com",
+      url: "https://www.seek.com.au",
+    },
   ];
 
   return (
