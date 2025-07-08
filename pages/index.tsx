@@ -211,6 +211,11 @@ const Home = () => {
     { name: "Sui jobs", 
       description: "Sui jobs",
       url: "https://jobs.sui.io/jobs"
+    },
+    {
+      name: "who is hiring",
+      description: "who is hiring",
+      url: "https://github.com/rebase-network/who-is-hiring?tab=readme-ov-file",
     }
   ];
 
