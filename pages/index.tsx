@@ -208,6 +208,10 @@ const Home = () => {
       description: "snaphunt.com",
       url: "https://snaphunt.com/job-listing/all-locations/Remote/",
     },
+    { name: "Sui jobs", 
+      description: "Sui jobs",
+      url: "https://jobs.sui.io/jobs"
+    }
   ];
 
   return (
